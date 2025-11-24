@@ -1,5 +1,3 @@
-# OS_project2_wnahra
-Programming Assignment #2
 This program implements the Banker’s Algorithm to determine whether a system of processes and resources is in a safe or unsafe state. The program reads an input file containing:
 
 * The available resources vector
