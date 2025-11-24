@@ -12,8 +12,7 @@ It then computes the need matrix, runs the safety algorithm, and prints:
 
 * The safe sequence of processes (if one exists)
 
-Banker’s Algorithm used to avoid deadlocks in operating systems.
-It ensures the system stays in a safe state—a state where all processes can run to completion without deadlock.
+Banker’s Algorithm used to avoid deadlocks in operating systems that ensures the system stays in a safe state, a state where all processes can run to completion without deadlock.
 
 * The algorithm uses the following data structures:
 
