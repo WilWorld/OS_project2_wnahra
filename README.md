@@ -24,3 +24,7 @@ It ensures the system stays in a safe state—a state where all processes can ru
 * Max[i][j] = Maximum demand that process i may request.
 
 * Need[i][j] = Max[i][j] − Allocation[i][j] = Remaining resources needed by process i to finish.
+
+How to run...
+* run g++ banker.cpp -o banker
+* ./banker (Should auto read input.txt)
