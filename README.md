@@ -14,7 +14,7 @@ It then computes the need matrix, runs the safety algorithm, and prints:
 
 Banker’s Algorithm used to avoid deadlocks in operating systems that ensures the system stays in a safe state, a state where all processes can run to completion without deadlock.
 
-* The algorithm uses the following data structures:
+The algorithm uses the following data structures:
 
 * Available[j] = Number of resource instances currently available for each resource type j.
 
