@@ -26,4 +26,4 @@ The algorithm uses the following data structures:
 
 How to run...
 * run g++ banker.cpp -o banker
-* ./banker (Should auto read input.txt)
+* ./banker (Should auto read input.txt) (If you dont have it results in "File not found")
